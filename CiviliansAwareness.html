@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Emergency Civilian Safety Form - India</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background: linear-gradient(to bottom right, #ffcc99, #fff5e6, #a2d9b1);
+      color: #003366;
+      overflow-x: hidden;
+    }
+
+    header {
+      background: rgba(0, 0, 0, 0.7);
+      padding: 20px;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 1000;
+    }
+
+    header h1 {
+      color: #ff9933;
+      margin: 0;
+      font-size: 2rem;
+    }
+
+    .form-section {
+      padding: 30px;
+      background-color: rgba(255, 255, 255, 0.3);
+      border-radius: 10px;
+      width: 90%;
+      max-width: 600px;
+      margin: 30px auto;
+      box-shadow: 0 0 20px #ff9933;
+    }
+
+    .form-section label {
+      display: block;
+      margin-top: 10px;
+      font-weight: bold;
+      color: #003366;
+    }
+
+    .form-section input,
+    .form-section textarea {
+      width: 100%;
+      padding: 10px;
+      margin-top: 5px;
+      border: none;
+      border-radius: 5px;
+      font-size: 1rem;
+    }
+
+    .form-section button {
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #ff9933;
+      color: #000;
+      font-weight: bold;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background 0.3s;
+    }
+
+    .form-section button:hover {
+      background-color: #ffc107;
+    }
+
+    .video-gallery {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      padding: 20px;
+    }
+
+    .video-box {
+      width: 320px;
+      background-color: rgba(255, 255, 255, 0.15);
+      border-radius: 10px;
+      padding: 10px;
+      text-align: center;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.2);
+      transition: transform 0.3s ease;
+    }
+
+    .video-box:hover {
+      transform: scale(1.03);
+    }
+
+    .video-box iframe {
+      width: 100%;
+      border-radius: 8px;
+    }
+
+    .video-box p {
+      margin-top: 8px;
+      font-size: 1rem;
+      color: #ffcc00;
+    }
+
+    .patriotic-images {
+      display: flex;
+      justify-content: center;
+      gap: 15px;
+      margin: 30px auto;
+      flex-wrap: wrap;
+      max-width: 800px;
+    }
+
+    .patriotic-images img {
+      width: 180px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+    }
+
+    .awareness-section {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background: rgba(255, 255, 255, 0.4);
+      border-radius: 10px;
+    }
+
+    .awareness-section h3 {
+      color: #ff5722;
+    }
+
+    .awareness-section ul {
+      padding-left: 20px;
+    }
+
+    .awareness-section li {
+      margin-bottom: 10px;
+      line-height: 1.5;
+    }
+
+    audio {
+      display: none;
+    }
+
+    /* Footer Message */
+    .footer-message {
+      text-align: center;
+      margin: 40px 20px 10px;
+      font-size: 1.8rem;
+      font-weight: bold;
+      color: #ff9933;
+      animation: fadeIn 3s ease-in-out infinite alternate;
+    }
+
+    @keyframes fadeIn {
+      0% { opacity: 0.3; transform: scale(0.98); }
+      100% { opacity: 1; transform: scale(1.02); }
+    }
+
+    .credits {
+      text-align: right;
+      padding: 10px 20px;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>🇮🇳 Civilian Emergency Safety Form</h1>
+  </header>
+
+  <section class="form-section">
+    <form>
+      <label for="name">Full Name</label>
+      <input type="text" id="name" placeholder="Enter your name" required />
+
+      <label for="age">Age</label>
+      <input type="number" id="age" placeholder="Enter your age" required />
+
+      <label for="address">Current Address</label>
+      <textarea id="address" placeholder="Enter your full address" rows="3"></textarea>
+
+      <label for="location">Detected Location (GPS)</label>
+      <input type="text" id="location" placeholder="Detecting location..." readonly />
+
+      <label for="message">Any Emergency Message</label>
+      <textarea id="message" placeholder="Describe if you or others are in danger..." rows="4"></textarea>
+
+      <button type="submit">Submit Form</button>
+    </form>
+  </section>
+
+  <section class="video-gallery">
+    <h2>🛡️ Safety Awareness Videos for Civilians</h2>
+
+    <div class="video-box">
+      <iframe src="https://www.youtube.com/embed/dDK2We5PyOY" frameborder="0" allowfullscreen></iframe>
+      <p>How to Stay Safe During Conflict</p>
+    </div>
+
+    <div class="video-box">
+      <iframe src="https://www.youtube.com/embed/t7R1aJ8D2eU" frameborder="0" allowfullscreen></iframe>
+      <p>Emergency Preparedness Guide</p>
+    </div>
+
+    <div class="video-box">
+      <iframe src="https://www.youtube.com/embed/etcQrqeelTU" frameborder="0" allowfullscreen></iframe>
+      <p>Survival Tips from Indian Forces</p>
+    </div>
+  </section>
+
+  <div class="patriotic-images">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" alt="Indian Flag" />
+    <img src="https://i.pinimg.com/originals/df/d3/0c/dfd30c1ebea4748f44be8e48f728b6e4.jpg" alt="Jai Hind" />
+    <img src="https://static.toiimg.com/photo/msid-67844657/67844657.jpg" alt="Indian Army" />
+  </div>
+
+  <section class="awareness-section">
+    <h3>✅ Do's During Emergency Situations:</h3>
+    <ul>
+      <li>Stay calm and focused. Panic can lead to mistakes.</li>
+      <li>Keep a basic emergency kit ready (medicines, torch, water, ID, etc.).</li>
+      <li>Follow official news sources and government updates.</li>
+      <li>Use emergency helplines or apps to report issues or get help.</li>
+      <li>Help others if it's safe to do so.</li>
+      <li>Stay indoors or move to designated shelters if advised.</li>
+    </ul>
+
+    <h3>🚫 Don'ts During Emergency Situations:</h3>
+    <ul>
+      <li>Don't spread misinformation or rumors on social media.</li>
+      <li>Don’t ignore official alerts or advice.</li>
+      <li>Don't make unnecessary calls during network congestion.</li>
+      <li>Don't take unnecessary risks or travel unless required.</li>
+      <li>Don't hoard essentials; ensure others get their share too.</li>
+    </ul>
+  </section>
+
+  <!-- Animated Jai Hind Message -->
+  <div class="footer-message">🇮🇳 Jai Hind! Stay Safe, Stay Strong 🇮🇳</div>
+
+  <!-- Credit -->
+  <div class="credits">Made with ❤️ by Sangam Pandey</div>
+
+  <!-- Background Music -->
+  <audio autoplay loop>
+    <source src="https://www.bensound.com/bensound-music/bensound-sunny.mp3" type="audio/mp3">
+  </audio>
+
+  <!-- JavaScript for GPS -->
+  <script>
+    window.onload = function () {
+      alert("⚠️ Stay alert and safe. Jai Hind 🇮🇳");
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(function (position) {
+          document.getElementById("location").value =
+            "Lat: " + position.coords.latitude + ", Lon: " + position.coords.longitude;
+        });
+      } else {
+        document.getElementById("location").value = "Geolocation not supported";
+      }
+    };
+  </script>
+
+</body>
+</html>
