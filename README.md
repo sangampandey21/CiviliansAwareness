@@ -26,7 +26,8 @@ CiviliansAwareness is a mission-driven web platform developed to safeguard and i
   Built to be lightweight, mobile-friendly, and intuitive, ensuring users can interact even in low-connectivity environments.
 
 * Vision & Impact:
-In times of war or national emergency, panic spreads faster than news. CiviliansAwareness aims to cut through the chaos, offering clarity, coordination, and comfort to every citizen. It isn't just a website—it's a civic tech solution, a beacon of digital resilience, and a tribute to the spirit of national solidarity.
+  
+  In times of war or national emergency, panic spreads faster than news. CiviliansAwareness aims to cut through the chaos, offering clarity, coordination, and comfort to every citizen. It isn't just a website—it's a     civic tech solution, a beacon of digital resilience, and a tribute to the spirit of national solidarity.
 
 Whether you're a student, a senior citizen, or a frontline responder—this app speaks to all, because preparedness should never be a privilege...
 
