@@ -14,11 +14,11 @@ CiviliansAwareness is a mission-driven web platform developed to safeguard and i
  
   Engaging, attention-grabbing alerts notify civilians of imminent danger, safe zones, government instructions, and evacuation routes.
 
-* User Information & SOS Forms
+* User Information & SOS Forms-
   
   Collects critical civilian data—such as name, contact, blood group, and nearby dependents—to help in disaster coordination and rescue missions.
 
-* Patriotic Media Integration
+* Patriotic Media Integration-
   
   Inspires a sense of unity and national spirit with embedded patriotic visuals, background tunes, videos, and real-time captions, keeping morale strong even in dark times.
 
