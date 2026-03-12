@@ -11,7 +11,7 @@ CiviliansAwareness is a mission-driven web platform developed to safeguard and i
 
   Utilizes geolocation to detect user positions, ensuring localized alerts and instructions are delivered precisely when needed.
 
-* Emergency Broadcast Pop-ups-
+* Emergency Broadcast Pop-ups -
  
   Engaging, attention-grabbing alerts notify civilians of imminent danger, safe zones, government instructions, and evacuation routes.
 
