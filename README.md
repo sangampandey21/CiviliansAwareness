@@ -1,4 +1,4 @@
-# CiviliansAwareness
+# Civilians Awareness
 
  Civilians Awareness Web App -
 "When uncertainty strikes, awareness saves lives".
