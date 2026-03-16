@@ -7,7 +7,7 @@ CiviliansAwareness is a mission-driven web platform developed to safeguard and i
 
  Key Features:-
  
-* Real-Time Location Access-
+* Real-Time Location Access
 
   Utilizes geolocation to detect user positions, ensuring localized alerts and instructions are delivered precisely when needed.
 
