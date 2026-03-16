@@ -23,7 +23,7 @@ CiviliansAwareness is a mission-driven web platform developed to safeguard and i
   
   Inspires a sense of unity and national spirit with embedded patriotic visuals, background tunes, videos, and real-time captions, keeping morale strong even in dark times.
 
-* Clean UI/UX Design
+* Clean UI/UX Design-
   
   Built to be lightweight, mobile-friendly, and intuitive, ensuring users can interact even in low-connectivity environments.
 
