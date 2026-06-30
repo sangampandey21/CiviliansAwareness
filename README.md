@@ -4,6 +4,7 @@
  
 "When uncertainty strikes, awareness saves lives"
 
+
 CiviliansAwareness is a mission-driven web platform developed to safeguard and inform the general public during wartime emergencies, national threats, or crisis scenarios.Created using HTML, CSS, and JavaScript, the project stands as a digital first-responder. A lifeline designed for both speed and clarity.
 
  Key Features:-
