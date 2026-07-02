@@ -18,7 +18,7 @@ CiviliansAwareness is a mission-driven web platform developed to safeguard and i
  
   Engaging, attention-grabbing alerts notify civilians of imminent danger, safe zones, government instructions, and evacuation routes.
 
-* User Information & SOS Forms-
+* User Information & SOS Forms -
   
   Collects critical civilian data—such as name, contact, blood group, and nearby dependents — to help in disaster coordination and rescue missions.
 
