@@ -12,7 +12,7 @@ CiviliansAwareness is a mission-driven web platform developed to safeguard and i
  
 * Real-Time Location Access -
 
-  Utilizes geolocation to detect user positions, ensuring localized alerts and instructions are delivered precisely when needed.
+  Utilizes geolocation to detect user positions, ensuring localized alerts and the instructions are delivered precisely when needed.
 
 * Emergency Broadcast Pop-ups -
  
