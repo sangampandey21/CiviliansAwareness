@@ -20,7 +20,7 @@ CiviliansAwareness is a mission-driven web platform developed to safeguard and i
 
 * User Information & SOS Forms -
   
-  Collects critical civilian data—such as name, contact, blood group, and nearby dependents — to help in disaster coordination and rescue missions.
+  It Collects critical civilian data—such as name, contact, blood group, and nearby dependents — to help in disaster coordination and rescue missions.
 
 * Patriotic Media Integration -
   
